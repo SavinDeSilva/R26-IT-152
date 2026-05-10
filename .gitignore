@@ -1,8 +1,0 @@
-.env
-data/
-models/
-outputs/
-*.pkl
-
-frontend/public/images/
-frontend/public/*.png
