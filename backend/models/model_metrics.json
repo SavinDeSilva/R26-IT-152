@@ -1,0 +1,17 @@
+{
+  "danger_zone_rf": {
+    "accuracy": 0.9323,
+    "f1": 0.9332,
+    "auc": 0.9463
+  },
+  "distress_classifier": {
+    "accuracy": 0.966,
+    "f1": 0.9641,
+    "auc": 0.9983
+  },
+  "hotel_safety_rf": {
+    "accuracy": 0.952,
+    "f1": 0.9519,
+    "auc": 0.9938
+  }
+}
